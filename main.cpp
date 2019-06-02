@@ -36,7 +36,7 @@ new_string[iterator-1]=intermediate[i-1];
 }
 newlist.push_back(new_string);
 }
-
+cout<<"string rewritten\n"<<endl;
 for(std::size_t i=0; i<newlist.size(); ++i) {
 
 cout<<newlist[i]<<" ";
