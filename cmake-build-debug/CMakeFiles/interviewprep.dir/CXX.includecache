@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sammyrobens-paradise/CLionProjects/interviewprep/main.cpp
+iostream
+-
+cstring
+-
+string
+-
+math.h
+-
+cmath
+-
+string.h
+-
+vector
+-
+istream
+-
+sstream
+-
+iterator
+-
+
